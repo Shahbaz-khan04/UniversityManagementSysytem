@@ -1,1 +1,1 @@
-# UniversityManagementSysytem
+# universitymanagementsysytem
